@@ -1,0 +1,5 @@
+# Directory for bytecode
+__pycache__/
+
+# Directory for temporary files
+tmp/
